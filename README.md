@@ -9,7 +9,7 @@ Frontend Mentor | Product preview card component
 </figure>
 
 <figure>
- <img src="phone_preview.jpeg" alt="website_phone_preview">
+ <img src="preview/phone_preview.jpeg" alt="website_phone_preview">
  <figcaption>Phone Preview</figcaption> 
 </figure>
 
