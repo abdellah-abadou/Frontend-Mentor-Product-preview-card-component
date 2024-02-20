@@ -1,0 +1,38 @@
+@media only screen and (max-width: 600px) {
+    .pc-image {
+        display: none;
+    }
+
+    .phone-image {
+        display: block;
+    }
+
+    .Product-card {
+        width: 90%;
+    }
+
+    figure {
+        flex-direction: column;
+    }
+
+    figure img{
+        border-bottom-left-radius: 0px;
+        border-top-right-radius: 10px;
+        width: 100%;
+    }
+
+    figcaption {
+        border-bottom-left-radius: 10px;
+        border-top-right-radius: 0px;
+        height: 100%;
+    }
+    
+    figure a {
+        margin-bottom: 15px;
+    }
+
+    figure a figure {
+        width: 5%;
+        margin: 0;
+    }
+}
